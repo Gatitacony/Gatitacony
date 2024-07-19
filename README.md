@@ -17,7 +17,7 @@
 - Una apasionada desarrolladora front-end autodidacta
 - Actualmente estoy aprendiendo desarrollo web por mi cuenta
 - Enlace a sitio web personal [link](https://www.0xabdulkhalid.ml)
-- Actualmente estoy abierto para una nueva oportunidad laboral, este es [mi curriculum](https://read.cv/0xabdulkhalid)
+- Actualmente tengo disponibilidad inmediata para una nueva oportunidad laboral, este es [mi curriculum](https://read.cv/0xabdulkhalid)
 
 <br><br>
 
@@ -63,6 +63,12 @@
   </a>
 </p>
 
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+
 <br>
 <br>
 <br>
@@ -74,25 +80,13 @@
 
 ## <b> ¡Conectémonos...!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
-<!-- Conectate conmigo -->
+<!-- ¡Conectémonos...! -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Conectate conmigo🤝</h2></summary>
   </ul>
 </div>
-
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
-
 
 <!--icons and links-->
 <p align="center">
