@@ -79,6 +79,12 @@
 
 -----
 
+## **Línea de tiempo**
+
+[Ver línea de tiempo (PDF)](https://github.com/Gatitacony/Gatitacony/blob/main/l%C3%ADnea%20de%20tiempo%20de%20la%20inteligencia%20artificial%2C%20cronolog%C3%ADa%2C%20infograf%C3%ADa%2C%20azul%20(1).pdf)
+
+
+
 <br>
 
 ## <b> ¡Conectémonos...!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
