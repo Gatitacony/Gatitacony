@@ -19,7 +19,7 @@
 <br>
 
 - Una apasionada desarrolladora front-end autodidacta
-- Actualmente estoy aprendiendo desarrollo web por mi cuenta
+- Actualmente estoy aprendiendo desarrollo web por mi cuenta y por el programa One de Oracle y Alura latam
 - Enlace a sitio web personal [link](https://www.0xabdulkhalid.ml)
 - Actualmente tengo disponibilidad inmediata para una nueva oportunidad laboral, este es [mi curriculum](https://read.cv/0xabdulkhalid)
 
@@ -27,7 +27,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tecnologías
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
@@ -35,7 +35,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
-### 🗃 &nbsp;Databases
+### 🗃 &nbsp;Bases de datos
 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
@@ -43,7 +43,7 @@
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)&nbsp;
 
 
-### 🧰 &nbsp;Version Controll & Tools 
+### 🧰 &nbsp;Control de versiones y herramientas
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
@@ -56,7 +56,7 @@
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;Análisis de GitHub
 
 <p align="center">
   <a href="https://github.com/Adityakanoi2001">
