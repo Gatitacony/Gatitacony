@@ -20,7 +20,7 @@
 
 - Una apasionada desarrolladora front-end autodidacta
 - Actualmente estoy aprendiendo desarrollo web por mi cuenta y por el programa One de Oracle y Alura latam
-- Enlace a sitio web personal [link](https://www.0xabdulkhalid.ml)
+- Enlace a sitio web personal [link]([https://www.0xabdulkhalid.ml](https://beacons.ai/franciny.huaiquil))
 - Actualmente tengo disponibilidad inmediata para una nueva oportunidad laboral, este es [mi curriculum](https://read.cv/0xabdulkhalid)
 
 <br><br>
