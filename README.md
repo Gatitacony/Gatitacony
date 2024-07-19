@@ -83,7 +83,7 @@
 
 [Ver línea de tiempo (PDF)](https://github.com/Gatitacony/Gatitacony/blob/main/l%C3%ADnea%20de%20tiempo%20de%20la%20inteligencia%20artificial%2C%20cronolog%C3%ADa%2C%20infograf%C3%ADa%2C%20azul%20(1).pdf)
 <br>
-![Línea de tiempo de la inteligencia artificial, cronología, infografía, azul](línea%20de%20tiempo%20de%20la%20inteligencia%20artificial,%20cronología,%20infografía,%20azul.png)
+![Línea de tiempo de la inteligencia artificial, cronología, infografía, azul](línea%20de%20tiempo%20de%20la%20inteligencia%20artificial,%20cronología,%20infografía,%20azul.svg)
 
 
 
