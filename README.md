@@ -82,7 +82,7 @@
 ## **Línea de tiempo**
 
 <p align="center">
-  <img src="línea%20de%20tiempo%20de%20la%20inteligencia%20artificial,%20cronología,%20infografía,%20azul.svg" alt="Línea de tiempo de la inteligencia artificial, cronología, infografía, azul">
+  <img src="https://raw.githubusercontent.com/Gatitacony/Gatitacony/main/l%C3%ADnea%20de%20tiempo%20de%20la%20inteligencia%20artificial%2C%20cronolog%C3%ADa%2C%20infograf%C3%ADa%2C%20azul.svg" alt="Línea de tiempo de la inteligencia artificial, cronología, infografía, azul">
 </p>
 
 <br>
