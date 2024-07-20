@@ -23,7 +23,7 @@
 - Enlace a sitio web personal [link](https://beacons.ai/franciny.huaiquil)
 - Actualmente tengo disponibilidad inmediata para una nueva oportunidad laboral, este es [mi curriculum](https://github.com/Gatitacony/Gatitacony/blob/main/CV%20Franciny%20Huaiquil.pdf)
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -114,4 +114,4 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/JayantGoel001/JayantGoel001/blob/master/github-contribution-grid-snake.svg)
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/Gatitacony/Gatitacony/blob/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Graph")
